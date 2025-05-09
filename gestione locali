@@ -1,0 +1,10 @@
+gestionale-locali/
+├── pages/
+│   ├── api/
+│   │   └── fatture.ts
+│   └── fatture.tsx
+├── utils/
+│   └── openai.ts
+├── lib/
+│   └── supabase.ts
+├── .env.local         <-- file di configurazione (non va su GitHub)
