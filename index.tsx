@@ -1,3 +1,11 @@
+export default function Home() {
+  return (
+    <main>
+      <h1>Benvenuto nel tuo gestionale 🎉</h1>
+      <p>La pagina si è caricata correttamente da Vercel.</p>
+    </main>
+  );
+}
 import { useState } from 'react';
 
 export default function Home() {
